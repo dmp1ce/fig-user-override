@@ -1,0 +1,7 @@
+source:
+  build: containers/source
+  command: /source/print.sh
+  volumes:
+    - containers/source/source:/source
+
+# vi: set tabstop=2 expandtab :
