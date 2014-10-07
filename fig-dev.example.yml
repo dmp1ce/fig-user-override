@@ -1,0 +1,5 @@
+source:
+  volumes:               
+    - containers/source/source:/source
+
+# vi: set tabstop=2 expandtab :
